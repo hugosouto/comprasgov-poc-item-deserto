@@ -1,3 +1,6 @@
+# Specific to roject
+sql/postgres_connection.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -153,7 +156,3 @@ cython_debug/
 
 # Markdown Lint
 *.markdownlint.json
-
-# Specific to roject
-config
-config/postgres_connection.py
