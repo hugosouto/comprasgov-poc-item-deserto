@@ -2,7 +2,6 @@ full_sql_query = """
 SELECT *
 FROM analises.poc_item_deserto_consolidada_v2
 WHERE 1=1
-    AND valor_estimado IS NOT NULL 
 """
 
 train_sql_query = """
