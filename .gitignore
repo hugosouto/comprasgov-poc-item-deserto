@@ -1,6 +1,6 @@
 # Specific to roject
 sql/postgres_connection.py
-output
+output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
